@@ -1,7 +1,8 @@
-# Printing a single line.
-print('Printing a single line.')
-print('hello python programming...!')
-print()
+# ==========================================
+# Module Name: python_basics.py
+# Purpose: Basic Python syntax and print statement practice
+# Author: Yuhyun Kim
+# ==========================================
 
 # Print multiple values
 print('# Print multiple values.')
